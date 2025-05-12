@@ -8,8 +8,7 @@ This project demonstrates an ETL pipeline using AWS Glue for transformations and
 - **Glue**: Serverless ETL service
 - **Managed Airflow**: Pipeline orchestration
 
-## Architecture
-![Architecture Diagram](architecture.png)
+## Architecture Diagram
 ![image](https://github.com/user-attachments/assets/8b8991bb-99d6-435b-84b2-d484460ff1d8)
 
 ## Components
