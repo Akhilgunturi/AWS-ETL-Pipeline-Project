@@ -1,0 +1,2 @@
+REFRESH MATERIALIZED VIEW mv_daily_sales;
+REFRESH MATERIALIZED VIEW mv_product_performance;
